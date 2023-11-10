@@ -2,7 +2,7 @@
 
 ![Model](Graph/BitC-Explore-Market-Caps.jpg)
 
-![Model](Graph/BitC-Ranking.jpg)
+![Model](Graph/24h-win-lose-Chnge.jpg)
 
 ![Model](Graph/BitC-Ranking.jpg)
 
