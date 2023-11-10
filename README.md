@@ -1,7 +1,9 @@
 Bitcoin Ranking
+
 ![Model](Graph/BitC-Ranking.jpg)
 
 Bitcoin's Market Capitals
+
 ![Model](Graph/BitC-Explore-Market-Caps.jpg)
 
 Bitoin 24 hour Changes
