@@ -1,6 +1,6 @@
 ![Model](Graph/BitC-Ranking.jpg)
 
-![Model](Graph/BitC-Ranking.jpg)
+![Model](Graph/BitC-Explore-Market-Caps.jpg)
 
 ![Model](Graph/BitC-Ranking.jpg)
 
