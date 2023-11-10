@@ -1,6 +1,4 @@
-![Model](BitC-Ranking.jpg)
-
-![Model](BitC-Explore-Market-Caps.jpg)
+![Model](BitC-Ranking.jpg)   ![Model](BitC-Explore-Market-Caps.jpg)
 
 
 OVERVIEW To better understand the growth and impact of Bitcoin and other cryptocurrencies. In this project, I explored the market capitalization of Bitcoin and other different cryptocurrencies. Since the launch of Bitcoin in 2008, hundreds of similar projects based on the blockchain technology have emerged. They are called cryptocurrencies (also coins or cryptos in the Internet slang). Other cryptocurrencies except Bitcoin are called Alt-coins(Alternative Coin). Some are extremely valuable nowadays, and others may have the potential to become extremely valuable in the future. In fact, on the 6th of December of 2017, Bitcoin has a market capitalization above $200 billion. WARNING: The cryptocurrency market is exceptionally volatile and any money you put in might disappear into thin air. Cryptocurrencies mentioned here might be scams similar to Ponzi Schemes or have many other issues (overvaluation, technical, etc.). N/B: Please do not mistake this for investment advice. The CSV file used for this project was downloaded on the 6th of December, 2017. The public record went private in 2020 and it is no longer available for public use.
